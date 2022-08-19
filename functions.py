@@ -27,4 +27,5 @@ customer_four_age = 25
 customer_one_interest = True
 
 verify_age(customer_two_age)
+# print(age) # doesn't work because of local scope
 verify_interest(customer_one_interest)
